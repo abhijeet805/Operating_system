@@ -83,5 +83,7 @@ line count=5
 bcs@bcs-OptiPlex-3020:~$ ./a.out count c abc1.txt
 
 char count=76
+
+Abhijeet
 */
 
